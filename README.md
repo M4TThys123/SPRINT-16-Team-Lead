@@ -1,7 +1,8 @@
 # Team Lead 
+Opdrachtgever: Buurtcampus-Oost <br>
+Teamleads: ![Matthijs Blauw](https://github.com/M4TThys123) & ![Daan Krover](https://github.com/DaanKorver)
 
-Opdrachtgever: Buurtcampus-Oost
-Teamleads: ![Matthijs Blauw](https://github.com/M4TThys123)
+In de ![wiki](https://github.com/M4TThys123/SPRINT-16-Team-Lead/wiki) vind je mijn logboek.
 
 
 
